@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m **Nihal**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning**. My interests include **Natural Language Processing, Computer Vision, and intelligent systems**. Beyond tech, I also enjoy **editing, art, and writing stories**, combining creativity with problem-solving to explore new ideas and build meaningful projects.
+I’m **Nihal**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning**. I am deeply passionate about exploring the intersection of **technology, creativity, and problem-solving**. My academic focus lies in **Natural Language Processing, Computer Vision, and intelligent systems**, where I aim to design solutions that are not only technically sound but also impactful in real-world applications.
+
+I believe in learning by building, and I enjoy working on projects that challenge me to push beyond my comfort zone. From experimenting with neural networks and data-driven insights to developing practical applications, I strive to create meaningful work that reflects my curiosity and determination. Alongside my technical journey, I also have a strong creative side — I enjoy **editing, art, and writing stories**, which helps me think differently and bring originality into my projects. This blend of analytical and artistic thinking defines who I am and how I approach problems.
+
+In the long run, my goal is to contribute to the creation of advanced AI systems, especially virtual assistants and tools that can genuinely make life easier for people. I see AI as not just a field of study but as a canvas for innovation, imagination, and collaboration.
 
 ---
 
@@ -19,8 +23,8 @@ I’m **Nihal**, a Computer Science student specializing in **Artificial Intelli
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🎨 Graphic Design + Video & 3D
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+### 🎨 Graphic Design, Illustration & Video Editing
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) 
 
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -35,4 +39,3 @@ I’m **Nihal**, a Computer Science student specializing in **Artificial Intelli
 ---
 
 ✨ *Proudly crafted with dedication — bringing together code, creativity, and design.*
-
